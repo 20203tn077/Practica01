@@ -3,6 +3,5 @@ Grupo 3ºc
 asdasdasprueba
 asdasdasd
 hola
-Carrera: de coches
-Área: base * altura
+Carrera: de coches base * altura
 new asd
