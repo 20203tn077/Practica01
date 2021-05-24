@@ -1,7 +1,5 @@
-Si Nath tiene un pan entonces es pan de nata
-Grupo 3ºc
-asdasdasprueba
-asdasdasd
-hola
-Carrera: de coches base * altura
-new asd
+Matrícula: 20203tn077@utez.edu.mx
+Materia: Desarrollo de Software Multimedia
+Grado: 3º
+Grupo: C
+Nombre: Ricardo Cárdenas Guevara
