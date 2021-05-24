@@ -1,11 +1,6 @@
-Si Nath tiene un pan entonces es pan de nata
-Grupo 3ºc
-asdasdasprueba
-hola
-Carrera: DSM
-Área: base * altura
-new asd
-línea
-;
-asdneka123
-relleno
+Matrícula: 20203tn077@utez.edu.mx
+Materia: Desarrollo de Software Multiplataforma
+Grado: 3º
+Grupo: C
+Nombre: Rebecca Abigaíl Cárdenas Guevara
+Texto de relleno
